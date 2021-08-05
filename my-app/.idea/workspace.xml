@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c193a06-aa4b-4c8d-b2f9-6684ed60245d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u3pKnsuBzdbcNMglXADyL0ShgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\AI Project\Smart Attendence\my-app\src\components" />
+      <recent name="G:\AI Project\Smart Attendence\my-app\src\assets\images" />
+      <recent name="G:\AI Project\Smart Attendence\my-app\src" />
+      <recent name="G:\AI Project\Smart Attendence\my-app\src\assets\css" />
+      <recent name="G:\AI Project\Smart Attendence\my-app\public\model1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c193a06-aa4b-4c8d-b2f9-6684ed60245d" name="Default Changelist" comment="" />
+      <created>1623904065841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623904065841</updated>
+      <workItem from="1623904074565" duration="21354000" />
+      <workItem from="1624030121891" duration="3241000" />
+      <workItem from="1624082687726" duration="5965000" />
+      <workItem from="1624166693884" duration="4907000" />
+      <workItem from="1624180848949" duration="4604000" />
+      <workItem from="1624202404415" duration="6574000" />
+      <workItem from="1624244530090" duration="3323000" />
+      <workItem from="1624259408667" duration="7936000" />
+      <workItem from="1624295488648" duration="2234000" />
+      <workItem from="1624377515615" duration="3296000" />
+      <workItem from="1624420636125" duration="2962000" />
+      <workItem from="1624463746039" duration="643000" />
+      <workItem from="1624507611026" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#ESLint" timestamp="1624088074602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1624088074602" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623906947139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623906947139" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1623953251819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623953251819" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1623953251819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623953251819" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1623953251818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623953251818" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1623953251819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623953251819" />
+  </component>
+</project>
